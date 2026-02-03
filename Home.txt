@@ -9,7 +9,7 @@ Automation testing (Selenium/Cypress/Playwright)
 
 API testing and SQL validation
 
-Collaboration with cross-functional teams
+coordination with cross-functional teams
 
 Agile/Scrum methodology adherence
 
