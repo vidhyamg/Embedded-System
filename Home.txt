@@ -3,7 +3,7 @@ software testing methods
 
 Responsibilities:
 
-Manual testing for web, mobile, and embedded systems
+Manual testing for web,desktop,mobile, and embedded systems
 
 Automation testing (Selenium/Cypress/Playwright)
 
