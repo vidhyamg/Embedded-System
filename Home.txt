@@ -3,7 +3,9 @@ QA Engineer Roles and Responsibiities
 
 Responsibilities:
 
-Manual testing for web,ui,mobile, and embedded systems
+Manual testing for web,ui,mobile, and embedded system
+
+mentoring trainees throgh training programes
 
 Automation testing (Selenium/Cypress/Playwright)
 
